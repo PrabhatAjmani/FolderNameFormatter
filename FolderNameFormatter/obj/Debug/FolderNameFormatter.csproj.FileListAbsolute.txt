@@ -1,0 +1,6 @@
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\bin\Debug\FolderNameFormatter.exe.config
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\bin\Debug\FolderNameFormatter.exe
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\bin\Debug\FolderNameFormatter.pdb
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\obj\Debug\FolderNameFormatter.exe
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\obj\Debug\FolderNameFormatter.pdb
+c:\users\prabhat\documents\visual studio 2012\Projects\FolderNameFormatter\FolderNameFormatter\obj\Debug\FolderNameFormatter.csprojResolveAssemblyReference.cache
